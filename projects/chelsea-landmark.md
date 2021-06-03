@@ -3,7 +3,7 @@ date: 2019-05-16
 year: 2019
 title: 'Piano Lessons '
 category: Identity
-thumbnail: "/uploads/mike-dorner-173502-unsplash.jpg"
+thumbnail: "/uploads/screen-shot-2021-06-02-at-10-25-28-am.png"
 categories:
 - 'piano '
 - lessons
