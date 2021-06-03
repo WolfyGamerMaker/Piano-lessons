@@ -8,7 +8,7 @@ categories:
 - 'piano '
 - lessons
 - why?
-project_bg_color: ''
+project_bg_color: "#FFCACA"
 project_fg_color: ''
 
 ---
