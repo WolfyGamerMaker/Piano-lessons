@@ -1,16 +1,17 @@
 ---
 date: 2019-05-16
 year: 2019
-title: Banana
+title: 'Piano Lessons '
 category: Identity
 thumbnail: "/uploads/mike-dorner-173502-unsplash.jpg"
 categories:
-- photography
-- pink
+- 'piano '
+- lessons
+- why?
 project_bg_color: ''
 project_fg_color: ''
 
 ---
-The **banana** fruits grow from a **banana** blossom in hanging clusters, also called a bunch or **banana** stem. The fruits grow in rows called tiers or hands. There can be as many as twenty fruits to a hand, and as many as twenty tiers in a bunch. A bunch usually weighs between 30 and 50 kilograms (65 to 110 pounds).
+# Piano Lessons
 
-![](/uploads/mike-dorner-173502-unsplash.jpg)
+Are you looking for an affordable, interactive, and convenient way to help your child start learning piano? Whether you would like a fun form of growth for them, or just a way for your kid to get out their energy in a focused and productive manner, piano lessons are a great idea. Not only are they beneficial to both the left and right parts of your brain, they also set a foundation in case you are interested in learning other instruments afterward.  Unfortunately, most piano teachers charge quite a bit for a good lesson, and it can be hard deciding where you want your child to learn.
