@@ -1,6 +1,7 @@
 ---
 label: Author
 hide_body: true
+display_field: Anika_Mukherjee
 fields:
 - type: text
   label: Name
