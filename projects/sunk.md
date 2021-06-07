@@ -1,12 +1,12 @@
 ---
 thumbnail: "/uploads/cody-davis-253925-unsplash.jpg"
-title: Pineapple
+title: About the Teacher
 date: 2019-02-06
 categories:
 - photography
 - blue
 project_bg_color: "#EDEDED"
-project_fg_color: "#36B5EF"
+project_fg_color: "#FFFFFF"
 
 ---
-![](/uploads/cody-davis-253925-unsplash.jpg)
+Anika is an avid piano player who is interested in teaching 
