@@ -4,7 +4,8 @@ title: Teaching Methods
 date: 2019-01-03
 categories:
 - Teaching piano
-project_bg_color: ''
+project_bg_color: "#F0FFF8"
 project_fg_color: ''
 
 ---
+The teaching methods we use are quite simple. 
